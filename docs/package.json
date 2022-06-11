@@ -54,7 +54,7 @@
     "bemmit": "^1.0.4",
     "cssnano": "^3.8.0",
     "postcss-cli": "^2.6.0",
-    "ramda": "^0.22.1"
+    "ramda": "^0.28.0"
   },
   "config": {
     "commitizen": {
